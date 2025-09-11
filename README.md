@@ -1,2 +1,2 @@
 # DL_assignment
-This  repository would be containing all the DL assignments
+This  repository contains all the DL assignments
